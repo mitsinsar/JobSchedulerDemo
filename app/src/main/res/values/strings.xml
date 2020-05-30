@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JobSchedulerDemo</string>
+    
+    <string name="network_type">Network Durumu</string>
+    <string name="none">Hiçbiri</string>
+    <string name="any">Herhangi biri</string>
+    <string name="wifi">Wifi</string>
+    <string name="requires">Gereklilikler:</string>
+    <string name="idle">Uyku</string>
+    <string name="change">Sarj</string>
+
+    <string name="schedule">Programla</string>
+    <string name="cancel">Iptal Et</string>
+
+    <string name="job_is_set">Job Programlandı</string>
+    <string name="job_is_started">Job Başlatıldı</string>
+    <string name="job_is_stopped">Job Durduruldu</string>
+    <string name="job_is_cancelled">Job İptal Edildi</string>
+</resources>
